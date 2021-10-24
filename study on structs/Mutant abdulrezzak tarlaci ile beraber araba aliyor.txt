@@ -1,0 +1,7 @@
+onur tarlacç still have 4000 money
+
+
+car name: Ferrari	car model: Primary
+car type: Prototip C
+car money: 7000
+

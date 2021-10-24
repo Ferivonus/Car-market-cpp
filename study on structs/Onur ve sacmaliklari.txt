@@ -1,0 +1,7 @@
+onur tarlaci still have 38000 money
+
+
+car name: Ferrari	car model: Spider
+car type: Super Car
+car money: 7000
+
