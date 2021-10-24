@@ -1,7 +1,0 @@
-onur aksoy still have 4994000 money
-
-
-car name: Ferrari	car model: Primary
-car type: Prototip C
-car money: 7000
-
