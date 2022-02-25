@@ -8,13 +8,14 @@
 #include <iostream>
 #include <fstream>
 using namespace std;
+
 #include "CarsStructs.h"
 #include "PeopleClass.h"
+
 #include "WritingFuncs.h"
+
 bool having_car(string);
 bool creating_file();
-
-
 
 
 int how_many_human_calculator() {
@@ -23,30 +24,6 @@ int how_many_human_calculator() {
     cin >> returner;
     return returner;
 }
-
-bool Wants_car_or_not(string full_name)
-{
-    int taker;
-    cout << "Does " << full_name << " want a car? " << endl << "Type 1 for yes " << endl << "Type 0 for no: ";
-    cin >> taker;
-    if (taker == 1)
-    {
-        return 1;
-    }
-    else
-    {
-        cout << "Seriously? Does " << full_name << " want a car? " << endl << "Type 1 for yes " << endl << "Type 0 for no: ";
-        cin >> taker;
-        if (taker == 1)
-        {
-            return 1;
-        }
-        else 
-            return 0;
-    }
-
-}
-
 
 
 int main()
